@@ -29,6 +29,12 @@ var fun = function lang(l) {
   return true;
 }
 ```
+```php
+// Javascript code with syntax highlighting.
+for($i=0;$i<10;$i++){
+  echo $i;
+}
+```
 
 ```ruby
 # Ruby code with syntax highlighting
