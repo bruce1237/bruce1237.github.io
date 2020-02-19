@@ -31,7 +31,7 @@ var fun = function lang(l) {
 ```
 ### Header 33
 ```php
-// Javascript code with syntax highlighting.
+// php code with syntax highlighting.
 for($i=0;$i<10;$i++){
   echo $i;
 }
