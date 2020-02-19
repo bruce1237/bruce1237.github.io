@@ -1,4 +1,0 @@
-
-    function submitThis(){
-        alert('ABBB');
-    }
